@@ -1,0 +1,9 @@
+{
+  "platforms": ["ios", "android", "web"],
+  "ios": {
+    "modules": ["HeadlessRnModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.headlessrn.HeadlessRnModule"]
+  }
+}
